@@ -1,0 +1,4 @@
+python-telegram-bot==13.7
+requests
+PyPDF2
+docx2txt
